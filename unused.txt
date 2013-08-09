@@ -1,0 +1,24 @@
+<section>
+  <section><h2>** We still don't know what software engineering is.</h2></section>
+  <section><h2>** It's 2013 and people still don't know what to call the process of building software, or the people who do it.</h2></section>
+  <section><h2>*** Are they engineers, developers, software craftsmen.  Skilled Artificer.</h2></section>
+  <section><h2>*** Software Development, Software Engineering?</h2></section>
+  <section><h2>*** Sometimes it feels like <img>building a sky scaler</img></h2></section>
+  <section><h2>*** Some times it feels like <img>molding clay</img></h2></section>
+  <section><h2>*** To me its something more like this.</h2></section>
+  <section><h2>* At the end of the day, why do we care?</h2></section>
+  <section><h2>** Every company is a software company</h2></section>
+  <section><h2>*** Information abounds</h2></section>
+  <section><h2>***</h2></section>
+</section>
+
+<section>
+  <section><h2>Goal 1: Create great software</h2><h3>(And all that entails)</h3></section>
+  <section><h2>Goal 2: Create a sustainable organization</h2><h3>(Maybe even happy developers?)</h3></section>
+  <section><h2>Goal 3: Return On Investment</h2><h3>(Software can be an accelerator, and a competitive advantage)</h3></section>
+</section>
+
+<section>
+  <section><h3>What does a company look like that delivers on these three goals?</h3></section>
+  <section><h3>Led me to start thinking.. What are the goals here anyways?</h3></section>
+</section>
